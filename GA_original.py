@@ -1077,7 +1077,7 @@ features = ["f0", "f1", "f2", "f3", "f4", "f5", "f6", "f7", "f8", "f9"]
 # ----------------------------------------Generate Population-----------------------------------------------------------
 #
 print("Classifier for Emotion Analysis through Neuro-Pyschological Data")
-print("Made by combined efforts from Anosh Billimoria, Nandana Varshney, Neishka Srivastava, Vastav Kalia, Yash Raj Saxena with Mentors Dr. Arpit Bhardwaj and Mrs. Divya Acharya")
+print("Made by combined efforts with Mentors Dr. Arpit Bhardwaj and Mrs. Divya Acharya")
 initialPopulation = []
 currentGeneration = []
 all = []
